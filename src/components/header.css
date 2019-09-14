@@ -1,0 +1,10 @@
+div.header {
+    background-color: #503280;
+    color: white;
+}
+
+h2 {
+    margin: 10px 0;
+    font-size: 2vw;
+    font-weight: bolder;
+}

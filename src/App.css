@@ -1,0 +1,17 @@
+.btn {
+    background-color: #503280 !important;
+}
+
+.btn-green {
+    background-color: #4BB543 !important;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+}
+
+.success-msg {
+    color: #4BB543;
+    font-weight: bolder
+}

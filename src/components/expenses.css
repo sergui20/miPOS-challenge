@@ -1,0 +1,8 @@
+.align-expenses {
+    display: flex;
+    align-items: center;
+}
+
+.delete-icon {
+    color: red;
+}
